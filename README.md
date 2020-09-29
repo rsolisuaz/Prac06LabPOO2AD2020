@@ -17,11 +17,9 @@ La lista de requerimientos que deben cumplirse en esta práctica los puede encon
 
 ## CALIFICACIÓN
 
-La calificación para esta práctica dependerá del funcionamiento total de la clase CreaTablasConDriverMan, y se realizará una prueba de manera inmediata al subir su solución.
-
+La calificación para esta práctica no les será emitida de manera inmediata al subir su solución, sin embargo se realizarán pruebas para verificar que compila y se ejecuta su programa sin problemas. Asegúrate que pase todas las pruebas antes de considerar tu práctica como terminada.
 
 ## NOTAS IMPORTANTES
-
 
 1. Recuerda que el proceso que debes estar haciendo es:
    - Haz cambios  en el archivo fuente **CreaTablasConDriverMan.java** 
@@ -32,4 +30,4 @@ La calificación para esta práctica dependerá del funcionamiento total de la c
 
 3. Si ya se ejecuta correctamente, súbelo al repositorio remoto dando `git push`. De otra manera, corrige los errores (haciendo las compilaciones, git add y git commit correspondientes)
 
-4. Cada vez que hagas `git push` se realizarán automáticamente pruebas sobre tu código para verificar si funciona correctamente. Recuerda que en la página de tu repositorio en la sección **Pull Requests**, se encuentra una subsección de nombre **Feedback**, donde podrás encontrar los resultados de las pruebas en la pestaña denominada **Check** (expandiendo la parte que dice **Run education/autograding@v1**), y cualquier comentario general que el profesor tenga sobre tu código en la pestaña **Conversation**. 
+4. Cada vez que hagas `git push` se realizarán automáticamente pruebas sobre tu código para verificar si funciona correctamente. Para esta práctica en particular no se te proporcionará una calificación de manera inmediata pues debe ser revisada con mayor detalle. Recuerda que en la página de tu repositorio en la sección **Pull Requests**, se encuentra una subsección de nombre **Feedback**, donde podrás encontrar los resultados de las pruebas en la pestaña denominada **Check** (expandiendo la parte que dice **Run education/autograding@v1**), y cualquier comentario general que el profesor tenga sobre tu código en la pestaña **Conversation**. 
